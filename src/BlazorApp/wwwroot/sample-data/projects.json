@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Movie Finder",
+    "description": "My first portfolio project leveraging Agile and group development.",
+    "url": "https://axelpanic.github.io/Project-Movie-finder/"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Weather Whereever",
+    "description": "Leveraging RestAPI, I use open weather for a simple application.",
+    "url": "https://axelpanic.github.io/Weather-wherever/"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    "title": "My React Portfolio",
+    "description": "Using React, I created a portfolio using a blue color palet and bootstrap elements.",
     "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    "title": "JS Readme Maker",
+    "description": "Using strickly JavaScript and Inquirer, this app creates a Readme from the Terminal.",
     "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
   }
 ]
